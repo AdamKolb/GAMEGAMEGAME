@@ -9,19 +9,19 @@ Adam Kolb
 
 ### Classes and methods:
 
-  *
-   *
-   *
-   *
-   *
-   *
-   *
-*
- *
- *
- *
- *
- *
+  *ss
+   *s
+   *s
+   *s
+   *s
+   *s
+   *s
+*sss
+ *s
+ *s
+ *s
+ *s
+ *s
    
  
 
