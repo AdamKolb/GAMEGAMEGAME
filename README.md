@@ -6,29 +6,20 @@
 ## CREATOR
 Adam Kolb
 
-
 ### Classes and methods:
 
- * calculate
-   *
-   *
-   *
-   *
-   *
-
-   *s
-   *s
-   *s
-   *s
-   *s
-   *s
-*sss
- *s
- *s
- *s
- *s
- *s
-   
+* main
+  * constructor method
+  * deal card
+* calc hand strength
+  * Royal flush check
+  * Straight flush check
+  * four of a kind check
+  * flush check
+  * straigh check
+  * three of a kind check
+  * two pair check
+  * pair chech
  
 
 
