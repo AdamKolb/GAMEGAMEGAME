@@ -1,5 +1,5 @@
 # GAMEGAMEGAME
 
 
-/CREATOR
-adam
+##CREATOR
+Adam Kolb
