@@ -9,7 +9,7 @@ Adam Kolb
 
 ### Classes and methods:
 
- *
+ * calculate
    *
    *
    *
